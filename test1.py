@@ -1,5 +1,6 @@
 #Készítsen Python kódot, ami bekér egy egész hőmérséklet értéket és kiírja, hogy az adott értéken milyen halmazállapotű a víz!
 
+#
 homersekletC = 0
 def homerseklet():
     
