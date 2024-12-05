@@ -1,6 +1,8 @@
 #Töltsön fel egy listát 20 véletlen számmal 1-50 között!
 import random
 
+#ez is egy teszt a githez
+
 lista = []
 
 def veletlen():
@@ -26,7 +28,7 @@ def osszeAd():
 
 def legnagyobbElem():
     max = 0
-    
+
     for item in lista:
         if item > max:
             max = item
